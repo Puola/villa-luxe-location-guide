@@ -35,6 +35,6 @@ Découvrez les meilleures villas et expériences haut de gamme ici :
 
 ## Autres guides utiles
 
-- https://github.com/tonprofil/voyage-luxe-hotels-villas-exception
-- https://github.com/tonprofil/hotel-luxe-monde-guide
-- https://github.com/tonprofil/destination-voyage-haut-de-gamme
+- https://github.com/Puola/voyage-luxe-hotels-villas-exception
+- https://github.com/Puola/hotel-luxe-monde-guide
+- https://github.com/Puola/destination-voyage-haut-de-gamme
